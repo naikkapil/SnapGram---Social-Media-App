@@ -1,1 +1,1 @@
-# SnapGram---Social-Media-App
+# SnapGram-Social-Media-App
